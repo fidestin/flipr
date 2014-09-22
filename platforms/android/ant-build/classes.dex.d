@@ -1,0 +1,23 @@
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes.dex : \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\flipr.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\R$string.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\com\example\hello\R.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+c:\Brendan\Vouchers\code\flipr\platforms\android\ant-build\dexedLibs\classes-2bca7077e8a2446266b2d2b63b4bc720.jar \
